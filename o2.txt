@@ -1,0 +1,80 @@
+VITIAN                                  
+Job ID: 0001
+  Time limit exceeded and invalid operand 
+IC is 3
+IR has H   
+TTC is 3
+TLC is 1
+
+
+****                                    
+####                                    
+DO NOT                                  
+Job ID: 0401	
+  Time limit exceeded error 
+IC is 10
+IR has PD40
+TTC is 10
+TLC is 3
+
+
+Job ID: 0401	
+  Time limit exceeded error 
+IC is 10
+IR has PD40****
+
+TTC is 10
+TLC is 3
+
+
+DO NOT                                 
+####                                   
+****                                   
+Job ID: 0001
+  Time limit exceeded and invalid opcode 
+IC is 3
+IR has H      
+TTC is 3
+TLC is 1
+
+VITIAN                                 
+Job ID: 0401	
+  Time limit exceeded error 
+IC is 10
+IR has PD40****
+
+TTC is 10
+TLC is 3
+
+
+DO NOT                                 
+####                                   
+****                                   
+Job ID: 0001
+  Time limit exceeded and invalid opcode 
+IC is 3
+IR has H      
+TTC is 3
+TLC is 1
+
+VITIAN                                 
+Job ID: 0401	
+  Time limit exceeded error 
+IC is 10
+IR has PD40****
+
+TTC is 10
+TLC is 3
+
+
+DO NOT                                 
+####                                   
+****                                   
+Job ID: 0001
+  Time limit exceeded and invalid opcode 
+IC is 3
+IR has H      
+TTC is 3
+TLC is 1
+
+VITIAN                                 
